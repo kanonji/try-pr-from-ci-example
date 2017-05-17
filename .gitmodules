@@ -1,0 +1,3 @@
+[submodule "try-pr-from-ci-submodule"]
+	path = try-pr-from-ci-submodule
+	url = https://github.com/kanonji/try-pr-from-ci-submodule.git
